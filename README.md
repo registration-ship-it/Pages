@@ -1,4 +1,12 @@
-<html>.container {
+ html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: 'Inter', system-ui, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+    }
+.container {
       min-height: 100vh;
       display: flex;
       align-items: center;
