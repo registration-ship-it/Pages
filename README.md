@@ -1,23 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Follow Us | Government Portal</title>
-  <meta name="description" content="Follow us on Facebook, Instagram, and X (Twitter)" />
-  <style>
-    :root {
-      --bg: #f0f4f8;
-      --card: #ffffff;
-      --primary: #1e40af;
-      --secondary: #1e3a8a;
-      --text: #111827;
-      --subtext: #4b5563;
-      --btn-bg: #1e40af;
-      --btn-hover: #1d4ed8;
-    }
-
-    html, body {
+<html, body {
       margin: 0;
       padding: 0;
       height: 100%;
