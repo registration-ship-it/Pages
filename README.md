@@ -1,4 +1,23 @@
- html, body {
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Follow Us | Government Portal</title>
+  <meta name="description" content="Follow us on Facebook, Instagram, and X (Twitter)" />
+  <style>
+    :root {
+      --bg: #f0f4f8;
+      --card: #ffffff;
+      --primary: #1e40af;
+      --secondary: #1e3a8a;
+      --text: #111827;
+      --subtext: #4b5563;
+      --btn-bg: #1e40af;
+      --btn-hover: #1d4ed8;
+    }
+
+    html, body {
       margin: 0;
       padding: 0;
       height: 100%;
@@ -6,7 +25,8 @@
       background-color: var(--bg);
       color: var(--text);
     }
-.container {
+
+    .container {
       min-height: 100vh;
       display: flex;
       align-items: center;
@@ -87,7 +107,7 @@
   <div class="container">
     <div class="card">
       <h1>Follow Us 
-	  <br> For More Updates
+	  <br> For More Updates </br>
 	  </h1>
       <p>Scan the QR code or click the links below to follow us on social media.</p>
 
